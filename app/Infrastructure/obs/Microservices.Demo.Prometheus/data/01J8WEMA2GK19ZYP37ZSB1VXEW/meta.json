@@ -1,0 +1,17 @@
+{
+	"ulid": "01J8WEMA2GK19ZYP37ZSB1VXEW",
+	"minTime": 1727370602372,
+	"maxTime": 1727373600000,
+	"stats": {
+		"numSamples": 184216,
+		"numSeries": 4629,
+		"numChunks": 4629
+	},
+	"compaction": {
+		"level": 1,
+		"sources": [
+			"01J8WEMA2GK19ZYP37ZSB1VXEW"
+		]
+	},
+	"version": 1
+}

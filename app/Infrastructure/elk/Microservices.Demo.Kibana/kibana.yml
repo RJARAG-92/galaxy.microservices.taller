@@ -1,0 +1,8 @@
+server.name: kib01-test
+server.host: 0.0.0.0
+elasticsearch.hosts: ["http://microservices.demo.elasticsearch:9200"]
+monitoring.ui.container.elasticsearch.enabled: true
+monitoring.ui.container.logstash.enabled: true
+elasticsearch.username: kibana_system
+elasticsearch.password: Nw3DLi+3f3Yk+8xYVHok
+#bin/elasticsearch-reset-password -u kibana_system
